@@ -14,6 +14,10 @@
 # This script converts that data into a movie. It uses gnuplot to convert
 # each sample (15 minute period) into a PNG. Then it uses ffmpeg to convert
 # the PNG frames into an MPEG.
+#
+# A demo of the output can be found here:
+#
+#   http://www.youtube.com/watch?v=1ti2c_mm24U
 
 
 # Clean.
